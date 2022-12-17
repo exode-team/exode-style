@@ -11,7 +11,6 @@ Montserrat (Regular, Medium, SemiBold, Bold)
 - Синий - #003EBC
 - Фиолетовый - #6A11CB
 - Голубой - #3f67e0 | #3a9cfc
-- 
 
 ## Градиенты
 - Основной: от #FF9A44 к #FD2A48 (25 градусов)
