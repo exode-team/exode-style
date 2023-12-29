@@ -1,8 +1,9 @@
-# exode-style
-Стиль exode — Опубликован 11.07.2020
+# Brandbook exode
+Стиль exode — первая публикация 11.07.2020
+Обновлено: 30.12.2023
 
 ## Шрифт
-Montserrat (Regular, Medium, SemiBold, Bold)
+"VK Sans Display", "-apple-system, system-ui, Helvetica Neue, Roboto, sans-serif"
 
 ## Цвета
 - Белый - #FFF
