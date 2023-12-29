@@ -1,0 +1,27 @@
+.red-orange-gradient {
+    background: linear-gradient(70deg, var(--exode_red), var(--exode_orange));
+}
+
+.orange-red-gradient {
+    background: linear-gradient(25deg, var(--exode_orange), var(--exode_red));
+}
+
+.blue-ocean-blue-gradient {
+    background: linear-gradient(25deg, #003EBC 25%, #6A11CB 103.85%);
+}
+
+.blue-pink-gradient {
+    background: linear-gradient(220deg, #003FB9 29.32%, #FE3C8A 120%);
+}
+
+.purple-blue-gradient {
+    background: linear-gradient(197.86deg, #FE3C8A -15.07%, #171793 77.88%);
+}
+
+.violet-blue-gradient {
+    background: linear-gradient(16.67deg, #764BA2 24.4%, #667EEA 77.66%);
+}
+
+.orange-rose-gradient {
+    background: linear-gradient(196.43deg, #FFD4A2 11.77%, #FE0159 73.91%);
+}

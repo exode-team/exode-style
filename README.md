@@ -1,20 +1,32 @@
 # Brandbook exode
-Стиль exode — первая публикация 11.07.2020
+
+Брендбук exode — первая публикация 11.07.2020
+
 Обновлено: 30.12.2023
 
 ## Шрифт
+
 "VK Sans Display", "-apple-system, system-ui, Helvetica Neue, Roboto, sans-serif"
+(можно скачать в папке /fonts)
 
-## Цвета
-- Белый - #FFF
-- Оранжевый - #FF9A44
-- Красный - #FD2A48
-- Синий - #003EBC
-- Фиолетовый - #6A11CB
-- Голубой - #3f67e0 | #3a9cfc
+## Логотип, изображения
+Перейдите в папку /images
 
-## Градиенты
-- Основной: от #FF9A44 к #FD2A48 (25 градусов)
-- Дополнительный: от #003EBC к #6A11CB (25 градусов)
+## Градиенты и цветовая схема
+Для получения значений перейдите в файлы color-scheme.css и gradients.css
 
-Оба линейные, можно применять под любым углом, но оригинал по +25 градусов.
+```
+Часто используемые из tailwind:
+
+from-lime-600 to-green-400
+from-orange-600 to-red-600
+from-purple-500 to-blue-500
+from-blue-400 to-blue-700
+from-blue-600 to-purple-500 dark:from-blue-400 dark:to-purple-500
+from-gray-500 dark:from-gray-600 to-gray-400 dark:to-gray-500
+from-green-500 dark:from-green-600 to-lime-600 dark:to-lime-600
+````
+
+Значения цветов можно посмотреть здесь https://tailwindcss.com/docs/background-color
+
+
